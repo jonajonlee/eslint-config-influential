@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-influential",
+  "version": "1.0.0",
+  "description": "influential's shareable eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonajonlee/eslint-config-influential.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "influential"
+  ],
+  "author": "Jonathan Lee <jlee@influential.co>",
+  "license": "UNLICENSED",
+  "peerDependencies": {
+    "eslint": ">=3"
+  },
+  "devDependencies": {
+    "eslint": "^3.5.0"
+  }
+}
